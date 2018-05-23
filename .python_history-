@@ -1,0 +1,3 @@
+ps -fA | grep python
+ps -fA 
+exit()
